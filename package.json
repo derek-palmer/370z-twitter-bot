@@ -1,0 +1,22 @@
+{
+  "name": "370z-twitter-bot",
+  "version": "1.0.0",
+  "description": "Twitter bot that interacts with Nissan 370z applicable hashtags.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derek-palmer/370z-twitter-bot.git"
+  },
+  "author": "Derek Palmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derek-palmer/370z-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/derek-palmer/370z-twitter-bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  }
+}
